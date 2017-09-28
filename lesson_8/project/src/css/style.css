@@ -1,0 +1,16 @@
+h1 {
+  font-size: 36px;
+  text-transform: uppercase;
+	 padding-top: 140px;
+	 padding-bottom: 140px;
+}
+
+.row img {
+	 width: 135px;
+	 height: 126px;
+}
+
+p {
+	 font-size: 18px;
+	 padding-top: 7px;
+}
