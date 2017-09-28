@@ -1,0 +1,29 @@
+body {
+	 background-color: rgba(75, 0, 130, 0.1);
+	 color: #006400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  color: black;
+}
+
+div {
+  border: 1px solid #666666;
+}
+
+.kvork {
+	  font-weight: bold;
+}
+
+.kursiv {
+	 font-style: italic;
+}
+
+.uper {
+	 text-decoration: underline;
+}
+
+.del {
+	 text-decoration: line-through;
+}
