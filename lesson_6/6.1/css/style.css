@@ -1,0 +1,41 @@
+ * {
+    margin: 0;
+    padding: 0;
+   }
+
+header {
+	 background-color: #000;
+	 height: 100px;
+	 width:100%;
+	 position: fixed;
+	 left: 0;
+	 top: 0;
+}
+
+.logo {
+	 height: 60px;
+	 width: 150px;
+	 margin: 20px 20px 20px 100px;
+}
+
+.navigation {
+  
+  list-style: none;
+  float: right;
+  margin-right: 100px; 
+}
+
+.navigation li {
+  display: inline-block;
+  margin: 40px 20px;
+} 
+
+.navigation li a{
+	 color: white;
+	 text-decoration: none
+}
+
+section {
+	 width: 70%;
+	 margin: 150px auto;
+}
