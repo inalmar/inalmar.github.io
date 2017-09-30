@@ -27,4 +27,4 @@
 
 [Урок 13](https://inalmar.github.io/lesson_13/ "Pixel Perfect")
 
-[Урок 14](inalmar.github.io/lesson_14/project/src/ "Практика. Вестка шапки")
+[Урок 14](https://inalmar.github.io/lesson_14/project/src/ "Практика. Вестка шапки")
