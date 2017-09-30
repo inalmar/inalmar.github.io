@@ -24,3 +24,5 @@
 [Урок 11](https://github.com/inalmar/inalmar.github.io/tree/master/lesson_11 "Сниппеты")
 
 [Урок 12](https://inalmar.github.io/ "GitHub")
+
+[Урок 13](https://inalmar.github.io/lesson_13/ "Pixel Perfect")
