@@ -31,4 +31,4 @@
 
 [Урок 14 Fonts](https://inalmar.github.io/lesson_14%20Fonts/project/src/ "Подключение шрифтов")
 
-[Практика. Часть 2.(https://inalmar.github.io/practical_worker_2/project/src/ "Верстка первой секции сайта")
+[Практика. Часть 2.](https://inalmar.github.io/practical_worker_2/project/src/ "Верстка первой секции сайта")
