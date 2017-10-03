@@ -34,3 +34,5 @@
 [Практика. Часть 2.](https://inalmar.github.io/practical_worker_2/project/src/ "Верстка первой секции сайта")
 
 [Урок 15](https://inalmar.github.io/lesson_15/ "Псевдоклассы")
+
+[Практикаю Часть 3](https://inalmar.github.io/practical_worker_3/project/src/ "Адаптация первой секции сайта")
