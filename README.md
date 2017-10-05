@@ -36,3 +36,5 @@
 [Урок 15](https://inalmar.github.io/lesson_15/ "Псевдоклассы")
 
 [Практика. Часть 3](https://inalmar.github.io/practical_worker_3/project/src/ "Адаптация первой секции сайта")
+
+[Урок 16](https://inalmar.github.io/lesson_16/ "Слайдер на сайте")
