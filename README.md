@@ -38,3 +38,5 @@
 [Практика. Часть 3](https://inalmar.github.io/practical_worker_3/project/src/ "Адаптация первой секции сайта")
 
 [Урок 16](https://inalmar.github.io/lesson_16/ "Слайдер на сайте")
+
+[Практика. Часть 4](https://inalmar.github.io/practical_worker_4/project/src/ "Верстка слайдера )преимущества)")
