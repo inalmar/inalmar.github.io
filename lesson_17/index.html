@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Модальные окна </title>
+<link type='text/css' href='css/demo.css' rel='stylesheet' media='screen' />
+<link type='text/css' href='css/confirm.css' rel='stylesheet' media='screen' />
+</head>
+		<body>
+				<div id='container'>
+						<div id='logo'>
+								<h1>Модальные<span>Окна</span></h1>
+								<span class='title'>Жалкие попытки стырить готовое</span>
+						</div>
+						<div id='content'>
+								<div id='confirm-dialog'>
+										<h3>Полученное задание</h3>
+										<h2>Сверстать кнопку "Удалить файл"</h2>
+									 <ul>
+									 	<li>При клике на кнопку всплывает диалоговое окно с вопросом <strong>"Вы действительно  хотите удалить файл?"</strong></li>
+									 	<li>Варианты ответов: <strong>Да и Нет</strong></li>
+									 	<li> У окна обязательно должен быть крестик в правом вернем углу, при клике на который окно можно закрыть.</li>
+									 </ul>
+
+										<input type='button' name='confirm' class='confirm' value='Удалить файл'/> 
+								</div>
+							
+							<!-- modal content -->
+								<div id='confirm'>
+										<div class='header'><span>Удаление файла</span></div>
+										<div class='message'></div>
+										<div class='buttons'>
+											<div class='no simplemodal-close'>Нет</div><div class='yes'>Да</div>
+										</div>
+								</div>
+							<!-- preload the images -->
+								<div style='display:none'>
+										<img src='img/confirm/header.gif' alt='' />
+										<img src='img/confirm/button.gif' alt='' />
+									</div>
+							</div>
+					
+				</div>
+				<!-- Load JavaScript files -->
+				<script type='text/javascript' src='js/jquery.js'></script>
+				<script type='text/javascript' src='js/jquery.simplemodal.js'></script>
+				<script type='text/javascript' src='js/confirm.js'></script>
+		</body>
+</html>
