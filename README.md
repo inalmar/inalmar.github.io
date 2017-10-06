@@ -42,3 +42,5 @@
 [Практика. Часть 4](https://inalmar.github.io/practical_worker_4/project/src/ "Верстка слайдера )преимущества)")
 
 [Урок 17](https://inalmar.github.io/lesson_17/ "Всплывающие окна")
+
+[Практика. Часть 5](https://inalmar.github.io/practical_worker_5/project/src/ "Всплывающее окно (Получить консультацию)")
