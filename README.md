@@ -46,3 +46,5 @@
 [Практика. Часть 5](https://inalmar.github.io/practical_worker_5/project/src/ "Всплывающее окно (Получить консультацию)")
 
 [Урок 18](https://inalmar.github.io/lesson_18/index.html "Табы и аккордеон")
+
+[Практика. Часть 6](https://inalmar.github.io/practical_worker_6/project/src/ "Блок с ценами")
