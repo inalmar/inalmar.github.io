@@ -70,7 +70,7 @@ section {
 /* main header */
 .main {
   padding: 3rem 0 5rem;
-  background: #ffffff url(../img/main_bg.jpg) center center no-repeat;
+  background: #ffffff url(../img/main-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 .main-content {
