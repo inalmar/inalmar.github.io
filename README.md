@@ -44,3 +44,5 @@
 [Урок 17](https://inalmar.github.io/lesson_17/ "Всплывающие окна")
 
 [Практика. Часть 5](https://inalmar.github.io/practical_worker_5/project/src/ "Всплывающее окно (Получить консультацию)")
+
+[Урок 18](https://inalmar.github.io/lesson_18/index.html "Табы и аккордеон")
