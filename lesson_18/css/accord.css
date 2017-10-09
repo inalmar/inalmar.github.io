@@ -1,0 +1,59 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background: url(../img/bg-accord.png) center center no-repeat;
+}
+
+.header{
+	margin-top: 100px;
+	line-height: 15px;
+}
+
+.header h1 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 900;
+	color: #0bbaf0;	
+}
+
+.header p{
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 400;
+	font-size: 23.2px;
+	color: #0bbaf0;
+}
+
+.panel-group {
+	margin-left: 250px;
+	margin-top: 93px;
+	width: 600px;
+}
+
+.panel {
+	border: none;
+	margin-top: 3px;
+}
+#headingOne, 
+#headingTwo, 
+#headingThree, 
+#headingFour, 
+#headingFive{
+	background-color: #0bbaf0;
+	color: #ffffff;
+	font-size: 22px;
+}
+
+.collapse {
+	width: 580px;
+	margin-left: 10px;
+	border-right: 4px solid #dcdcdc;
+	border-left: 4px solid #dcdcdc;
+	border-bottom: 4px solid #dcdcdc;
+	border-radius: 4px;
+}
+
+.panel-body a{
+	font-size: 15px;
+}
+

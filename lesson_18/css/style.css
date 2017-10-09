@@ -1,0 +1,154 @@
+@font-face {
+			font-family: "MyriadProRegular";
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+
+body {
+	background: url(../img/bg-form.png) center center no-repeat;
+}
+
+#wrap-tabs {
+	width: 630px;
+	margin: 40px auto 0;
+}
+
+.tabs {
+	height: 34px;
+	width: 100%;
+	margin-left: 20px;
+	margin-bottom: 14px;
+	border-radius: 6px;
+	font-family: 'MyriadProRegular', sans-serif;
+	font-size: 24px;
+	text-shadow: -2px -2px 2px rgba(0,0,0,.3);
+}
+
+.tab {
+	margin-left: 5px;
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 6px;
+} 
+
+#wrap-tabs .tabs:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
+
+#wrap-tabs .tabs .tab {
+	float: left;
+	cursor: pointer;
+	padding: 10px 20px;
+}
+
+
+#wrap-tabs .tabs .tab:hover,
+#wrap-tabs .tabs .tab.active {
+	background-color: #03a5da;
+	color: #fff;
+	border-radius: 3px;
+}
+
+#wrap-tabs .content-form{
+	background-color: #000000;
+
+}
+
+#wrap-tabs .content-form .tab-cont {
+	display: none;
+
+}
+
+#wrap-tabs .content-form .tab-cont.active {
+	display: block;
+}
+
+.form {
+	height: 340px;
+	width: 600px;
+	border: 24px solid #03a5da;
+	border-radius: 5px;
+}
+
+.form-input {
+	display: block;
+	color: white;
+	font-size: 24px;
+	font-family: 'MyriadProRegular', sans-serif;
+	background: #1c1b1b;
+	border: none;
+	margin-bottom: 31px;
+	margin-left: 30px;
+	padding-left: 20px;
+	border-radius: 5px;
+	height: 59px;
+	width: 480px;
+}
+
+.form-input-name {
+	margin-top: 50px;
+}
+
+.password a {
+	color: #8d1302;
+	font-size: 15px;
+	margin-left: 45px;
+	text-decoration: none;
+}
+
+.remember {
+	color: #6f6d6d;
+	font-size: 15px;
+	margin-left: 45px;
+	margin-top: 40px;
+
+}
+
+.sign {
+	position: relative;
+	width: 125px;
+	height: 36px;
+	left: 500px;
+	bottom: 50px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 10px;
+	font-size: 24px;
+	background-color: #ba1b02;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+.link-accord {
+	 position: absolute;
+	 left: 40%;
+	 bottom: 40%;
+}
+
+
+ a { 
+  color: white;
+  text-decoration: none;
+     } 
+
+button {
+	 display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: .5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  border-radius: 6px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  transition: 0.2s; 
+}

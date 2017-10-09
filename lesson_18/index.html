@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Табы</title>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+    	<div id="wrap-tabs">
+    		<div class="tabs">
+    			<div class="tab active">Вход</div>
+    			<div class="tab">Регистрация</div>
+    		</div>
+    		<div class="content-form">
+    			<div class="tab-cont active">
+    				<form class="form" action="#">
+    					<input class="form-input form-input-name" type="text" placeholder="Ваше имя">
+    					<input class="form-input" type="text" placeholder="Пароль">
+    					<p class="password"><a href="">Забыли пароль?</a></p>
+    					<p class="remember"><input type="checkbox"> Напомнить мне</p>
+    					<div class="sign">	
+    						<span>Войти</span>
+    					</div>
+    				</form>
+    			</div>
+    			
+    		</div>
+    	</div>
+    </div>
+
+    <div class="link-accord">
+    	 <button><a href="accodr.html" target="blank">Задание с аккордеоном</a></button>
+    </div>
+
+  
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+    	$(function(){
+    		$("#wrap-tabs").on("click", ".tab", function(){
+    			var tabs = $("#wrap-tabs .tab"),
+    			    cont = $("#wrap-tabs .tab-cont");
+    			// Удаляем классы active
+    			tabs.removeClass("active");
+    			cont.removeClass("active");
+    			// Добавляем классы active
+    			$(this).addClass("active");
+    			cont.eq($(this).index()).addClass("active");
+    			return false;
+    		});
+    	});
+    </script>
+  </body>
+</html>
