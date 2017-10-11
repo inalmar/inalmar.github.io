@@ -51,3 +51,4 @@
 
 [Урок 19](https://inalmar.github.io/lesson_19/ "Анимация")
 
+[Практика. Часть 7](https://inalmar.github.io/practical_worker_7/project/src/ "Блок с отзывами")
