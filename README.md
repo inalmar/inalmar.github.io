@@ -48,3 +48,6 @@
 [Урок 18](https://inalmar.github.io/lesson_18/index.html "Табы и аккордеон")
 
 [Практика. Часть 6](https://inalmar.github.io/practical_worker_6/project/src/ "Блок с ценами")
+
+[Урок 19](https://inalmar.github.io/lesson_19/ "Анимация")
+
