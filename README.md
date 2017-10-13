@@ -57,4 +57,4 @@
 
 [Практика. Часть 8](https://inalmar.github.io/practical_worker_8/project/src/ "Блок с отзывами")
 
-[Урок 21](https://inalmar.github.io/lesson_21/"Parallax")
+[Урок 21](https://inalmar.github.io/lesson_21/ "Parallax")
