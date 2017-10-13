@@ -52,3 +52,9 @@
 [Урок 19](https://inalmar.github.io/lesson_19/ "Анимация")
 
 [Практика. Часть 7](https://inalmar.github.io/practical_worker_7/project/src/ "Блок с отзывами")
+
+[Урок 20](https://inalmar.github.io/lesson_20/"Видеофон")
+
+[Практика. Часть 8](https://inalmar.github.io/practical_worker_8/project/src/ "Блок с отзывами")
+
+[Урок 21](https://inalmar.github.io/lesson_21/"Parallax")
