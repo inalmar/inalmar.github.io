@@ -59,4 +59,8 @@
 
 [Урок 21](https://inalmar.github.io/lesson_21/ "Parallax")
 
-[Практика. Часть 8](https://inalmar.github.io/practical_worker_9/project/src/ "Схема работы. Все включено")
+[Практика. Часть 9](https://inalmar.github.io/practical_worker_9/project/src/ "Схема работы. Все включено")
+
+[Урок 22](https://inalmar.github.io/lesson_22/ "Карты")
+
+[Практика. Часть 10](https://inalmar.github.io/practical_worker_10/project/src/ "Развеиваем сомнения")
