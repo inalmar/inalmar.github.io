@@ -1,0 +1,61 @@
+.container {
+	width: 1920px;
+	height: 530px;
+	padding: 0;
+}
+.contact {
+	position: absolute;
+	height: 430px;
+	width: 380px;
+	background-color: #c60b0b;
+	text-align: center;
+	color: #fff;
+	padding-top: 40px;
+	margin-left: 500px;
+}
+h1 {
+	padding-bottom: 30px;
+	font-weight: 100;
+}
+p {
+	padding-bottom: 20px;
+}
+a {
+	color: #fff;
+	text-decoration: underline;
+}
+.footer {
+	margin-left: 500px;
+}
+.logo, .text-logo, h2, .footer-contact {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.logo>p {
+	margin-top: 35px;
+	margin-left: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+}
+
+h2 {
+	margin-left: 170px;
+	font-size: 15px;
+}
+.footer-contact {
+	margin-left: 170px;
+}
+.phone {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: -15px;
+}
+
+.adresse {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
+}
